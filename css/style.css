@@ -1,0 +1,74 @@
+@font-face {
+    font-family: myrad-reg;
+    src: url(fonts/MYRIADPRO-REGULAR.OTF);
+}
+@font-face {
+    font-family: myrad-bold;
+    src: url(fonts/MYRIADPRO-BOLD.OTF);
+}
+
+.navbar-custom{
+    background-color:#051328 ;
+    color: red;
+} 
+.navbar-brand{
+    color: white;
+    font-family: myrad-bold;
+    font-size: large;
+}
+
+.navbar-items{
+    font-family: myrad-reg;
+    font-size: medium;
+}
+
+body{
+    background-color: #051328;
+}
+.panel-body{
+    background-color: #051328;
+}
+
+.class-name{
+    font-family: myrad-bold;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+.sem-name{
+    font-family: myrad-reg;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.subject-body{
+    background-color: #051328;
+    padding-bottom: 20px;   
+}
+
+.subject-name{
+    padding: 8px;
+    border: none;
+    font-size: 20px;
+    font-family: myrad-reg;
+    background-color: #256b2a;
+    color:white;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.panel-custom{
+    border: none;
+    margin-bottom: 20px;
+}
+.unit-title{
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+}
+.unit-content{
+    color: white;
+}

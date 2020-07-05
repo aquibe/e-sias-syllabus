@@ -1,0 +1,45 @@
+.cust{
+    color: white;
+    background-color: #051328;
+    font-family: boldvv;
+}
+.bbb{
+    border: none;
+}
+*,body{
+    background-color: #051328;
+}
+.cen{
+   text-align: center;
+   /*color: #051328;*/
+   color: white;
+   font-family: boldvv;
+}
+
+.unit-title{
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+}
+.unit-content{
+    color: white;
+}
+
+.syllabus-title{
+ padding: 8px;
+ font-size: 20px;
+ font-family: boldvv;
+ background-color: #256b2a;
+ color:white;
+ text-align: center;
+ border-radius: 30px;
+ 
+ 
+}
+@font-face {
+    font-family: boldvv;
+    src: url(MYRIADPRO-REGULAR.OTF);
+  }
+.blue{
+    background-color: #051328;
+}
