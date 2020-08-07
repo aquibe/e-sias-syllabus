@@ -73,3 +73,20 @@ body{
 .unit-content{
     color: white;
 }
+
+.pdf-btn-body{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.pdf-btn{
+    padding: 8px;
+    border: none;
+    font-size: 20px;
+    font-family: myrad-reg;
+    background-color:#00a1ff;
+    color:white;
+    text-align: center;
+    border-radius: 30px;
+    width: 60%;
+}
